@@ -1,4 +1,3 @@
-# Salesforce-interview
 
 # Salesforce Interview Preparation
 
